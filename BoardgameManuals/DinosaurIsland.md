@@ -18,7 +18,7 @@ Other: 1 basic dino (1 threat), 10 VPs
 
 ## Phase 1 Reaserch
 
-You have 3 reaserchers with strength 1,2 and 3. They can do a few different things.
+You have 3 reaserchers with strength 1,2 and 3. They can:
 
 ### 1.1 Get a dino recipe.
 
