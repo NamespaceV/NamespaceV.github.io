@@ -134,6 +134,7 @@ Final scoring
 
 - now add points from objectives
 - add points per dino shown on dino tile
+- -10VP per each dino recipe with no dinos on it
 - add points on attraction tiles
 - add 1 VP per 5 $
 
