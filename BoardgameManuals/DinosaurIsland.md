@@ -91,6 +91,8 @@ Core lab upgrades your workers can use from the start of the game:
 
 All spaces can only be used the amount of times equal to number of spaces, and some spaces require more workers. Only increase security or build padlock is not limited.
 
+Threat and security is not limited to 10, use +10 and +20 tiles when needed, security increase cost is capped at 5 after you get to security 9+
+
 Other lab upgrades say what they do on the tile.
 
 ## Phase 4 Tourists
