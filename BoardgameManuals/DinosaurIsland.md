@@ -34,6 +34,7 @@ You have 3 reaserchers with strength 1,2 and 3. They can:
 
 Each round there is one herbivore that requiers 1 strength to pick, one small carniovore that requires 2, and one large carnivore that requires 3.
 Place the new dino tile in the park, it has space for a single dino. (If it's still empty when game ends -10 VP , but its only at the end of the game)
+DO NOT reveal a new dino, there is only one available per type per round.
 
 ### 1.2 Get genes from gene die
 
@@ -115,6 +116,7 @@ Yellow meeples still in the park get bonus based on the space. Usually 1VP, some
 - reroll gene dies
 - discard 2$ cost upgrades
 - move all other upgrades to cheaper spaces, and fill the blanks with new upgrades
+- reveal new dino for each pile where recipe was taken
 
 
 ## Phase Objectives and game end
