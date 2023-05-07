@@ -1,16 +1,11 @@
-# Testing markup github page
+# NamespaceV site
 
-Lore ipsum
+Simple markdown based site
+
+## Boardgame Rulebooks
 
 [Dinosaur island](./BoardgameManuals/DinosaurIsland.md)
 
-## Header2
+## Page source
 
-- asd
-- asfdre
-- rfw
-- fds
-
-|dasdas|FDSF|dsfsdf|
-|-------|---|--|
-|asdasd|dasd|Das|
+https://github.com/NamespaceV/NamespaceV.github.io
