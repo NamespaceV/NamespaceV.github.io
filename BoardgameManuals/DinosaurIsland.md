@@ -20,8 +20,11 @@ Other: 1 basic dino (1 threat), 10 VPs, total threat is 1, security is also 1
 
 ### Global
 
-Objective Carsds: #players + 1 (pick short, medium or long game deck to set different game length, main difference is higher numbers to meet e.g. get 5, 7  or 10 dinosaurs)
-Plot twist cards: 2 (if cards don't make sense together, shuffle 2nd card and draw again)
+Objective Carsds: number of players + 1 
+
+(pick short, medium or long game deck to set different game length, main difference is higher numbers to meet e.g. get 5, 7  or 10 dinosaurs)
+
+Plot twist cards: 2 (if drawn cards don't make sense together, shuffle 2nd card and draw again)
 
 ## Phase 1 Reaserch
 
