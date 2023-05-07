@@ -2,6 +2,8 @@
 
 Lore ipsum
 
+[Dinosaur island](./BoardgameManuals/DinosaurIsland.md)
+
 ## Header2
 
 - asd
