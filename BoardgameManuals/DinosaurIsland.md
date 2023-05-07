@@ -26,6 +26,8 @@ Objective Carsds: number of players + 1
 
 Plot twist cards: 2 (if drawn cards don't make sense together, shuffle 2nd card and draw again)
 
+When drawing attraction tiles (rectangular park tiles with meeple sapces on them and coin cost) only during setup - sort them bycost and put cheapest attractions on cheapest upgrade cost.
+
 ## Phase 1 Reaserch
 
 You have 3 reaserchers with strength 1,2 and 3. They can:
